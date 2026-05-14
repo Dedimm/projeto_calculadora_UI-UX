@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"APS"},{"l":"aula6"},{"l":"Classes"},{"l":"Exercicios_EstruturaDados"},{"l":"GUI_JAVA_EXEMPLOS"},{"l":"list"},{"l":"listaDupla"},{"l":"OrdenaçaoBusca"},{"l":"projeto_calculadora"}];updateSearchResults();
